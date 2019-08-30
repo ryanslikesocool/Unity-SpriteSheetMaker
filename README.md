@@ -3,7 +3,7 @@ A Unity editor tool to make sprite sheets from individual sprites
 
 ## Usage
 - Drag and drop into an Editor folder in your Unity project.
-- Set the necessary settings for individual sprites (can be set automatically with an asset processor, or manually by mass-selecting and setting the right options).  Make sure they're all in the same folder as well.
+- Set the necessary settings for individual sprites (can be set automatically with an asset processor, or manually by mass-selecting and setting the right options).  Make sure they're all in the same folder, and that they're all the same size.
   - Texture Type: Sprite (2D and UI)
   - Read/Write Enabled: true
 - Open the editor window via ifelse>Sheet Maker in the menu bar (maybe even dock it if you're doing lots of sheets).
