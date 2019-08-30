@@ -1,7 +1,7 @@
 # Unity-SpriteSheetMaker
 A Unity editor tool to make sprite sheets from individual sprites
 
-# Usage
+## Usage
 - Drag and drop into an Editor folder in your Unity project.
 - Set the necessary settings for individual sprites (can be set automatically with an asset processor, or manually by mass-selecting and setting the right options).  Make sure they're all in the same folder as well.
   - Texture Type: Sprite (2D and UI)
