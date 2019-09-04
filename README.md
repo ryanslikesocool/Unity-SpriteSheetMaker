@@ -15,7 +15,7 @@ A Unity editor tool to make sprite sheets from individual sprites
 - Set settings for the sheet.  My suggestions are:
   - Texture Type: Sprite (2D and UI)
   - Read/Write Enabled: false
-  = Sprite Mode: Multiple
+  - Sprite Mode: Multiple
   - Generate Mip Maps: false
   - Max Size: whatever your desired size is.  Try to ue the same size as you used when setting the sprite count
 - Slice as normal
