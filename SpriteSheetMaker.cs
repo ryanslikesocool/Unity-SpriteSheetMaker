@@ -15,7 +15,7 @@ namespace ifelse {
         [MenuItem("ifelse/Sheet Maker")]
         static void Init()
         {
-            SheetMakerWindow window = (SheetMakerWindow)EditorWindow.GetWindow<SheetMakerWindow>();
+            SpriteSheetMaker window = (SpriteSheetMaker)EditorWindow.GetWindow<SpriteSheetMaker>();
             window.titleContent.text = "Sheet Maker";
             window.Show();
         }
